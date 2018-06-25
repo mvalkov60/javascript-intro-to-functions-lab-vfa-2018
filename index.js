@@ -16,9 +16,5 @@ function sayHiToGrandma(string){
   
   }
   
-  if (string == string.toUpperCaseCase) {
-    
-  }
-  return "YES INDEED!";
-}
+  
 
